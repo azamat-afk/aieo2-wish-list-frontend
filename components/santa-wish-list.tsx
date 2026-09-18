@@ -77,7 +77,7 @@ export function SantaWishList() {
 
       <section className="relative z-10 mx-auto grid max-w-6xl gap-12 px-5 pb-20 pt-4 md:grid-cols-[1fr_1.05fr] md:items-center md:px-10 md:pt-12">
         <div className="space-y-7">
-          <div className="inline-flex items-center gap-2 rounded-full border border-[#e8c884]/40 bg-[#e8c884]/10 px-4 py-2 text-xs font-semibold uppercase tracking-[.23em] text-[#f0d59d]"><Sparkles className="size-3.5" /> Christmas 2024</div>
+          <div className="inline-flex items-center gap-2 rounded-full border border-[#e8c884]/40 bg-[#e8c884]/10 px-4 py-2 text-xs font-semibold uppercase tracking-[.23em] text-[#f0d59d]"><Sparkles className="size-3.5" /> Christmas 2027</div>
           <h1 className="max-w-xl font-serif text-5xl leading-[.98] text-[#fff8e9] sm:text-6xl md:text-7xl">Tell Santa what your <em className="text-[#e8c884]">heart</em> desires.</h1>
           <p className="max-w-md text-base leading-7 text-[#c7d0d0]">Write down your wishes and watch them magically appear on Santa&apos;s list. Every wish gets a little holiday verdict.</p>
           <div className="flex items-center gap-5 text-sm text-[#aebabc]"><span className="flex items-center gap-2"><span className="size-2 rounded-full bg-[#e8c884]" /> Make a wish</span><span className="flex items-center gap-2"><span className="size-2 rounded-full bg-[#e8c884]" /> Seal the magic</span></div>
